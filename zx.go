@@ -6,7 +6,7 @@
 package dm
 
 import (
-	"dm/util"
+	"github.com/genghongjie/dm/util"
 	"math/rand"
 	"strconv"
 	"time"
