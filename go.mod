@@ -1,4 +1,4 @@
-module dm
+module github.com/genghongjie/dm
 
 go 1.13
 
